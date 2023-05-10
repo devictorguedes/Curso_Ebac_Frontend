@@ -103,3 +103,18 @@ section h2{
   background-color: #ff9f1a;
 }
 
+#culture {
+  background-color: rgba(255, 0, 0, 0.149);
+}
+
+#culture .articles article a{
+  background-color: #ab0000;
+}
+
+#vehicles{
+  background-color:#00000038 ;
+}
+
+#vehicles .articles article a{
+  background-color: #000000;
+}
